@@ -10,7 +10,7 @@
 }
 \details{
 
-This package implements all methods proposed in "Assessing the Value of a Censored Surrogate Outcome" by Parast L, Tian L, and Cai T which is currently in press at Lifetime Data Analysis. The main functions are (1) R.q.event() which calculates the proportion of the treatment effect (the difference in restricted mean survival time at time t) explained by surrogate outcome information observed up to a selected landmark time, (2) R.t.estimate() which calculates the proportion of the treatment effect explained by primary outcome information only observed up to a selected landmark time, and (3) IV.event() which calculates the incremental value of the surrogate outcome information.
+This package implements all methods proposed in Parast L, Tian L, and Cai T (2020). Assessing the Value of a Censored Surrogate Outcome. Lifetime Data Analysis, 26(2):245-265. The main functions are (1) R.q.event() which calculates the proportion of the treatment effect (the difference in restricted mean survival time at time t) explained by surrogate outcome information observed up to a selected landmark time, (2) R.t.estimate() which calculates the proportion of the treatment effect explained by primary outcome information only observed up to a selected landmark time, and (3) IV.event() which calculates the incremental value of the surrogate outcome information.
 }
 \author{
 \packageAuthor{SurrogateOutcome}
@@ -18,7 +18,7 @@ This package implements all methods proposed in "Assessing the Value of a Censor
 Maintainer: \packageMaintainer{SurrogateOutcome}
 }
 \references{
-Parast L, Tian L, and Cai T (2019). Assessing the Value of a Censored Surrogate Outcome. Lifetime Data Analysis, In press.}
+Parast L, Tian L, and Cai T (2020). Assessing the Value of a Censored Surrogate Outcome. Lifetime Data Analysis, 26(2):245-265.}
 
 \keyword{ package }
 

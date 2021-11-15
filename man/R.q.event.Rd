@@ -113,7 +113,7 @@ A list is returned:
  \item{conf.int.R.q}{a vector of size 2; the 95\% confidence interval for \eqn{\hat{R}_Q(t,t_0)} based on sample quantiles of the perturbed values; if conf.int = TRUE.}
 }
 \references{
-Parast L, Tian L, and Cai T (2019). Assessing the Value of a Censored Surrogate Outcome. Lifetime Data Analysis, In press.
+Parast L, Tian L, and Cai T (2020). Assessing the Value of a Censored Surrogate Outcome. Lifetime Data Analysis, 26(2):245-265.
 
 Parast, L and Cai, T (2013). Landmark risk prediction of residual life for breast cancer survival. Statistics in Medicine, 32(20), 3459-3471.
 

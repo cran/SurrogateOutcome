@@ -76,7 +76,7 @@ A list is returned:
    \item{third.term}{the third term of the residual treatment effect, if deltaslist = TRUE}
 }
 \references{
-Parast L, Tian L, and Cai T (2019). Assessing the Value of a Censored Surrogate Outcome. Lifetime Data Analysis, In press.}
+Parast L, Tian L, and Cai T (2020). Assessing the Value of a Censored Surrogate Outcome. Lifetime Data Analysis, 26(2):245-265.}
 \author{
 Layla Parast
 }

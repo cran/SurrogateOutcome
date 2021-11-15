@@ -96,7 +96,7 @@ A list is returned:
  \item{conf.int.IV}{a vector of size 2; the 95\% confidence interval for the incremental value based on sample quantiles of the perturbed values; if conf.int = TRUE.}
 }
 \references{
-Parast L, Tian L, and Cai T (2019). Assessing the Value of a Censored Surrogate Outcome. Lifetime Data Analysis, In press.}
+Parast L, Tian L, and Cai T (2020). Assessing the Value of a Censored Surrogate Outcome. Lifetime Data Analysis, 26(2):245-265.}
 \author{
 Layla Parast
 }

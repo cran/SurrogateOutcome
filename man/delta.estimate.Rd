@@ -57,7 +57,7 @@ A list is returned:
     \item{conf.int.delta}{a vector of size 2; the 95\% confidence interval for \eqn{\hat{\Delta}(t)} based on sample quantiles of the perturbed values; if conf.int = TRUE.}
 }
 \references{
-Parast L, Tian L, and Cai T (2019). Assessing the Value of a Censored Surrogate Outcome. Lifetime Data Analysis, In press.
+Parast L, Tian L, and Cai T (2020). Assessing the Value of a Censored Surrogate Outcome. Lifetime Data Analysis, 26(2):245-265.
 
 Tian, L, Zhao, L, & Wei, LJ (2013). Predicting the restricted mean event time with the subject's baseline covariates in survival analysis. Biostatistics, 15(2), 222-233.
 
